@@ -1,6 +1,5 @@
-# Change these first
-owner: cod3rocket # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: cod3rocket
+repo: status
 
 sites:
   - name: Auth
@@ -8,23 +7,18 @@ sites:
   - name: Omnichannel
     url: https://chatwoot.cod3rocket.com
 
-assignees: # Users to assign downtime issues (optional)
+assignees:
   - eduardoteles17
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cod3rocket.com
-  # baseUrl: /your-repo-name
   logoUrl: https://github.com/cod3rocket.png
-  name: Status Cod3Rocket
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status - Cod3Rocket
+  faviconSvg: https://cod3rocket.com/favicon.svg
+  themeUrl: https://status.cod3rocket/cod3rocket.css
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Home
+      href: https://cod3rocket.com
+    - title: Suporte
+      href: https://cod3rocket.com/contato
+  js: "(function(){var el=document.createElement('script');el.setAttribute('src','https://analytics.cod3rocket.com/script.js');el.setAttribute('data-website-id','f1791cef-f1d2-464a-bb12-354abc0fbf50');document.body.appendChild(el)})();"
