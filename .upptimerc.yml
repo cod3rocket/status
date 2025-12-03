@@ -10,6 +10,10 @@ sites:
 assignees:
   - eduardoteles17
 
+commitMessages:
+  commitAuthorName: "Cod3Rocket - Bot"
+  commitAuthorEmail: "github@cod3rocket.com"
+
 status-website:
   cname: status.cod3rocket.com
   logoUrl: https://github.com/cod3rocket.png
