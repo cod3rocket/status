@@ -1,0 +1,69 @@
+:root {
+    /* --- 1. Paleta da cod3Rocket (Baseada em OKLCH) --- */
+    --color-base-100: oklch(0.9851 0 0);
+    --color-base-200: oklch(0.946 0 89.876);
+    --color-base-300: oklch(0.872 0.009 258.338);
+    --color-base-content: oklch(0.373 0.031 259.733);
+
+    --color-primary: oklch(0.64 0.187 37.373); /* Laranja cod3Rocket */
+    --color-primary-content: oklch(100% 0 0);
+
+    --color-secondary: oklch(0.8036 0.1531 78.28);
+    --color-secondary-content: oklch(28% 0.066 53.813);
+
+    --color-accent: oklch(0.551 0.023 264.364);
+    --color-accent-content: oklch(100% 0 0);
+
+    --color-neutral: oklch(0.972 0.002 197.122);
+    --color-neutral-content: oklch(14% 0 0);
+
+    --color-info: oklch(0.714 0.143 254.624);
+    --color-success: oklch(0.773 0.153 163.223); /* Verde */
+    --color-warning: oklch(0.837 0.164 84.429); /* Amarelo */
+    --color-error: oklch(0.711 0.166 22.216); /* Vermelho */
+
+    /* --- 2. Mapeamento Upptime --- */
+
+    /* Estrutura Geral */
+    --body-background-color: var(--color-base-100);
+    --body-text-color: var(--color-base-content);
+
+    /* Cards e Navegação */
+    --card-background-color: var(--color-base-100); /* Fundo limpo */
+    --card-border-color: var(--color-base-300); /* Borda sutil */
+
+    --nav-background-color: var(--color-base-100);
+    --nav-border-bottom-color: var(--color-base-200);
+    --nav-current-border-bottom-color: var(--color-primary); /* Laranja destaque */
+
+    /* Status: Online (UP) */
+    --up-border-left-color: var(--color-success);
+    --tag-up-background-color: var(--color-success);
+
+    /* Status: Offline (DOWN) */
+    --down-border-left-color: var(--color-error);
+    --down-background-color: var(--color-error); /* Nota: Pode ficar forte */
+    --tag-down-background-color: var(--color-error);
+
+    /* Status: Instável (DEGRADED) */
+    --degraded-border-left-color: var(--color-warning);
+    --tag-degraded-background-color: var(--color-warning);
+    --change-background-color: var(--color-warning);
+
+    /* Texto das Tags de Status */
+    /* Definido como preto/escuro pois seus conteúdos de aviso/sucesso são 0% luminosidade */
+    --tag-color: oklch(0.2 0 0);
+
+    /* Botões */
+    --submit-button-background-color: var(--color-primary);
+    --submit-button-color: var(--color-primary-content);
+    --submit-button-border-color: var(--color-primary);
+
+    --error-button-background-color: var(--color-neutral);
+    --error-button-color: var(--color-neutral-content);
+    --error-button-border-color: var(--color-base-300);
+
+    /* Gráficos */
+    --graph-opacity: 0.8;
+    --graph-filter: none;
+}
