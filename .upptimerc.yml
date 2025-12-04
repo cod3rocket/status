@@ -19,10 +19,10 @@ status-website:
   logoUrl: https://github.com/cod3rocket.png
   name: Status - Cod3Rocket
   faviconSvg: https://cod3rocket.com/favicon.svg
-  themeUrl: https://status.cod3rocket/cod3rocket.css
+  themeUrl: https://status.cod3rocket.com/cod3rocket.css
   navbar:
     - title: Home
       href: https://cod3rocket.com
     - title: Suporte
       href: https://cod3rocket.com/contato
-  js: "(function(){var el=document.createElement('script');el.setAttribute('src','https://analytics.cod3rocket.com/script.js');el.setAttribute('data-website-id','f1791cef-f1d2-464a-bb12-354abc0fbf50');document.body.appendChild(el)})();"
+  js: "window.onload = function(){var el=document.createElement('script');el.setAttribute('src','https://analytics.cod3rocket.com/script.js');el.setAttribute('data-website-id','f1791cef-f1d2-464a-bb12-354abc0fbf50');document.body.appendChild(el)}"
