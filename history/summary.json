@@ -4,9 +4,9 @@
     "url": "https://auth.cod3rocket.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cod3rocket.com.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1388,
     "timeMonth": 1204,
     "timeYear": 1232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
   },
   {
     "name": "Omnichannel",
