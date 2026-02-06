@@ -6,15 +6,15 @@
     "slug": "auth",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "96.02%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
-    "time": 1235,
-    "timeDay": 1370,
-    "timeWeek": 1414,
-    "timeMonth": 1212,
-    "timeYear": 1235,
+    "time": 1232,
+    "timeDay": 1020,
+    "timeWeek": 1326,
+    "timeMonth": 1218,
+    "timeYear": 1232,
     "dailyMinutesDown": {
       "2026-02-04": 57
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 552,
-    "timeWeek": 627,
-    "timeMonth": 584,
+    "timeDay": 555,
+    "timeWeek": 611,
+    "timeMonth": 593,
     "timeYear": 556,
     "dailyMinutesDown": {}
   }
