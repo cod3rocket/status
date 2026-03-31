@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1238,
-    "timeDay": 798,
-    "timeWeek": 1128,
-    "timeMonth": 1227,
-    "timeYear": 1238,
+    "time": 1239,
+    "timeDay": 1307,
+    "timeWeek": 1126,
+    "timeMonth": 1229,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2026-02-04": 57
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatwoot.cod3rocket.com.ico",
     "slug": "omnichannel",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.97%",
-    "time": 559,
-    "timeDay": 457,
-    "timeWeek": 491,
-    "timeMonth": 561,
-    "timeYear": 559,
+    "uptimeYear": "99.98%",
+    "time": 560,
+    "timeDay": 589,
+    "timeWeek": 501,
+    "timeMonth": 562,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2026-03-19": 42
     }
