@@ -4,7 +4,7 @@
     "url": "https://auth.cod3rocket.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cod3rocket.com.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1229,
     "timeYear": 1239,
     "dailyMinutesDown": {
+      "2026-03-31": 0,
       "2026-02-04": 57
     }
   },
