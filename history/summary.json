@@ -25,7 +25,7 @@
     "url": "https://chatwoot.cod3rocket.com",
     "icon": "https://icons.duckduckgo.com/ip3/chatwoot.cod3rocket.com.ico",
     "slug": "omnichannel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 569,
     "timeYear": 561,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-03-19": 42
     }
   }
