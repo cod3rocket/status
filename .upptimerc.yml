@@ -6,6 +6,14 @@ sites:
     url: https://auth.cod3rocket.com
   - name: Omnichannel
     url: https://chatwoot.cod3rocket.com
+  - name: Typebot
+    url: https://typebot.cod3rocket.com
+  - name: Valinor
+    url: https://valinorcrm.com
+  - name: Wakapi
+    url: https://wakapi.cod3rocket.com
+  - name: Invoice
+    url: https://invoice.cod3rocket.com
 
 assignees:
   - eduardoteles17
