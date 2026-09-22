@@ -92,16 +92,36 @@
     }
   },
   {
+    "name": "Valinor API",
+    "url": "https://valinorcrm.com/api/auth/providers",
+    "icon": "https://icons.duckduckgo.com/ip3/valinorcrm.com.ico",
+    "slug": "valinor-api",
+    "status": "up",
+    "uptime": "53.18%",
+    "uptimeDay": "53.18%",
+    "uptimeWeek": "53.18%",
+    "uptimeMonth": "53.18%",
+    "uptimeYear": "53.18%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-09-22": 0
+    }
+  },
+  {
     "name": "Wakapi",
     "url": "https://wakapi.cod3rocket.com",
     "icon": "https://icons.duckduckgo.com/ip3/wakapi.cod3rocket.com.ico",
     "slug": "wakapi",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 1214,
     "timeDay": 1539,
     "timeWeek": 1460,
