@@ -10,6 +10,13 @@ sites:
     url: https://typebot.cod3rocket.com
   - name: Valinor
     url: https://valinorcrm.com
+  # A entrada acima ve so a landing page (Astro), que sobe sem a API. Este monitor ve a API, e
+  # nao pode usar /actuator/health: o Ingress do Valinor nao roteia /actuator de proposito, para
+  # nao publicar as rotas, os jobs e a contagem de erros do produto. /api/auth/providers e o
+  # primeiro request da tela de login -- GET sem token, resposta pequena e fixa -- entao o
+  # monitor vermelho aqui significa exatamente "ninguem consegue entrar".
+  - name: Valinor API
+    url: https://valinorcrm.com/api/auth/providers
   - name: Wakapi
     url: https://wakapi.cod3rocket.com
   - name: Invoice
